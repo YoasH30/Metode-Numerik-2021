@@ -54,7 +54,7 @@ Metode Euler dapat diturunkan dari Deret Taylor. etode Euler menggunakan garis t
 
 Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Metode ini melibatkan 2 buah persamaan. Persamaan pertama disebut sebagai persamaan prediktor yang digunakan untuk memprediksi nilai integrasi awal. Persamaan kedua disebut sebagai persamaan korektor yang mengoreksi hasil integrasi awal.
 
-#saran :
+# Saran :
 
 1. untuk praktikum selanjutnya dimohon diberikan tutorial yang lebih jelas dan jangan terburu-buru
 2. untuk tutorial selanjutnya diberikan screenschot proses yang gagal dan proses yang sukses
