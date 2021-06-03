@@ -38,6 +38,14 @@ Integrasi numerik merupakan cara alternatif untuk mengintegrasikan suatu persama
 Metode trapesium merupakan metode pendekatan integral numerik dengan persamaan polinomial order satu. Dalam metode ini kurve lengkung dari fungsi f (x) digantikan oleh garis lurus. Pada metode trapesium satu pias memberikan kesalahan sangat besar. Untuk mengurangi kesalahan yang terjadi maka kurve lengkung didekati oleh sejumlah garis lurus, sehingga terbentuk banyak pias. Luas bidang adalah jumlah dari luas beberapa pias tersebut. Semakin kecil pias yang digunakan, hasil yang didapat menjadi semakin teliti. Metode trapesium dapat digunakan untuk integral suatu fungsi yang diberikan dalam bentuk numerik pada interval diskret. 
 # 2. Metode Simspon 1/3 
 Kaidah simpson 1/3 adalah kaidah yang mencocokkan polinomial derajat pada tiga titik data diskrit yang mempunyai jarak yang sama. Hampiran nilai integrasi yang lebih baik dapat ditingkatkan dengan menggunakan polinom interpolasi berderajat yang lebih tinggi. Rumus Simpson dapat diturunkan berdasarkan deret Taylor. Metode simpson 1/3 dapat menghasilkan ketelitian orde 3 dan hanya memerlukan 3 titik. Pada simpson 1/3 hanya berlaku untuk jumlah pias genap.
+# 3. Metode Trapesiun 1 PIAS
+Metode trapesium merupakan metode pendekatan integral numerik dengan  persamaan polinomial order satu. Dalam metode ini kurve lengkung dari fungsi f (x)  digantikan oleh garis lurus. Seperti pada Gambar 1, luasan bidang di bawah fungsi f (x) antara nilai x = a dan nilai x = bdidekati oleh luas satu trapesium yang terbentuk oleh garis lurus yang menghubungkan f (a) dan f (b) dan sumbu-x serta antara x = a dan x = b. Pendekatan dilakukan dengan satu pias (trapesium). 
+# 4. Metode Simpson 3/8
+Metode Simpson 3/8 diturunkan dengan menggunakan persamaan polinomial order tiga yang melalui empat titik
+Metode Simpson 1/3 biasanya lebih disukai karena mencapai ketelitian order tiga dan hanya memerlukan tiga titik, dibandingkan metode Simpson 3/8 yang membutuhkan empat titik. 
+Dalam pemakaian banyak pias, metode Simpson 1/3 hanya berlaku untuk jumlah pias genap. Apabila dikehendaki jumlah pias ganjil, maka dapat digunakan metode trapesium.
+Tetapi metode ini tidak begitu baik karena adanya kesalahan yang cukup besar. Untuk itu  kedua metode dapat digabung, yaitu sejumlah genap pias digunakan metode Simpson 1/3
+sedangkan 3 pias sisanya digunakan metodeSimpson 3/8
 
 # MODUL 5
 Persamaan diferensial adalah persamaan yang memuat turunan satu atau beberapa fungsi yang tak diketahui. Persamaan diferensial biasa hanya mengandung satu variable bebas. Metode satu langkah persamaan diferensial biasa ilaha metode euler maupun metode heun.
