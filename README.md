@@ -1,4 +1,9 @@
 # Metode-Numerik-2021
+Repository dibuat untuk memenuhi tugas akhir Metode Numerik, didalamnya terdapat aplikasi yang dapat digunakan untuk menyelesaikan permasalahan numerikal
+Aplikasi ini masih butuh beberapa pengembangan supaya dapat digunakan dengan lebih baik lagi.
+Cara untuk menjalankan hanya tinggal run dan memasukkan angka-angka yang diperlukan, agar dapat menampilkan hasil
+Aplikasi ini dibuat dengan menggunakan bahasa Python dengan library Matplotlib, Numpy, Scipy, dan masih banyak lagi
+
 Tim Kelompok 10:
 1. Muhammad Irsad K_26050119120023
 2. Achmad Usamah-26050119120026
@@ -54,9 +59,10 @@ Metode Euler dapat diturunkan dari Deret Taylor. etode Euler menggunakan garis t
 
 Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Metode ini melibatkan 2 buah persamaan. Persamaan pertama disebut sebagai persamaan prediktor yang digunakan untuk memprediksi nilai integrasi awal. Persamaan kedua disebut sebagai persamaan korektor yang mengoreksi hasil integrasi awal.
 
-# Saran :
+# KESAN:
+ 	Ucapan terimakasih tidak lupaa diberikan kepada asisten-asisten yang sudah mengajarkan kepada praktikan mengenai dasar-dasar metode numerik  meskipun kondisi masih belum bisa offline. Belajar mengenai penyelesaian persaamaan yang tidak sederhana melalui komputer dijalankan oleh Python tentunya suatu pengalaman baru bagi praktikan untuk berkembang lagi dalam mencari ilmu.
+ 
+# PESAN:
+Semoga praktikum kedepannya semakin rinci dalam menjelaskan mengenai script yang digunakan fungsi serta mengapa memakai hal tersebut agar praktikan lebih memahami lebih dalam lagi. Serta semoga modul praktikum semakin lengkap dengan penjelasan dari masing-masing script yang akan digunakan.
 
-1. untuk praktikum selanjutnya dimohon diberikan tutorial yang lebih jelas dan jangan terburu-buru
-2. untuk tutorial selanjutnya diberikan screenschot proses yang gagal dan proses yang sukses
 
-Kami mengucapkan terima kasih pada dosen dan tim asisten Metnum 2021
