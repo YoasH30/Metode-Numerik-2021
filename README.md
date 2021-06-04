@@ -8,7 +8,7 @@ Aplikasi ini dibuat dengan menggunakan bahasa Python dengan library Matplotlib, 
 Perlu diperhatikan bahwa file (.exe) ini berkaitan dengan directory file dalam penggunaannya, maka terdapat beberapa bagian script yang harus disesuaikan. Berikut adalah langkah dalam menggunakan file (.exe):
 
 Pengguna dapat mengunduh folder Kelompok 10 pada repositori ini.
-Buka file codemetnum11.py pada folder code. 2 0
+Buka file codemetnum10.py pada folder code.
 Pada bagian Modul 4: 
 Metode Trapesium 1 Pias, ubah directory file sesuai dengan lokasi directory file folder image anda. 
 Hal yang sama juga dilakukan pada Modul 4: Metode Trapesium Banyak Pias dan 
