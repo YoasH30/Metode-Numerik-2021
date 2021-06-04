@@ -4,6 +4,18 @@ Aplikasi ini masih butuh beberapa pengembangan supaya dapat digunakan dengan leb
 Cara untuk menjalankan hanya tinggal run dan memasukkan angka-angka yang diperlukan, agar dapat menampilkan hasil
 Aplikasi ini dibuat dengan menggunakan bahasa Python dengan library Matplotlib, Numpy, Scipy, dan masih banyak lagi
 
+# Cara Penggunaan Executable File (.exe)💻
+Perlu diperhatikan bahwa file (.exe) ini berkaitan dengan directory file dalam penggunaannya, maka terdapat beberapa bagian script yang harus disesuaikan. Berikut adalah langkah dalam menggunakan file (.exe):
+
+Pengguna dapat mengunduh folder Kelompok 11 pada repositori ini.
+Buka file codemetnum11.py pada folder code. 2 0
+Pada bagian Modul 4: Metode Trapesium 1 Pias, ubah directory file sesuai dengan lokasi directory file folder image anda. 2 Hal yang sama juga dilakukan pada Modul 4: Metode Trapesium Banyak Pias dan Modul 5: Metode Euler dan Heun.
+Sesuaikan akhiran directory file dengan metode yang digunakan.
+plt.savefig(r'C:\Kelompok 10\Images\**NamaMetode**.png')
+Kemudian save file codemetnum11.py.
+Buka file setup.exe.
+Lalu ikuti perintah yang terdapat pada program.
+
 Tim Kelompok 10:
 1. Muhammad Irsad K_26050119120023
 2. Achmad Usamah-26050119120026
