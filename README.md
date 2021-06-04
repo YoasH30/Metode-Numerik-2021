@@ -15,7 +15,7 @@ Hal yang sama juga dilakukan pada Modul 4: Metode Trapesium Banyak Pias dan
 Modul 5: Metode Euler dan Heun.
 Sesuaikan akhiran directory file dengan metode yang digunakan.
 plt.savefig('C:\Kelompok 10\Images\**NamaMetode**.png')
-Kemudian save file codemetnum11.py.
+Kemudian save file codemetnum10.py.
 Buka file setup.exe.
 Lalu ikuti perintah yang terdapat pada program.
 
