@@ -14,7 +14,7 @@ Metode Trapesium 1 Pias, ubah directory file sesuai dengan lokasi directory file
 Hal yang sama juga dilakukan pada Modul 4: Metode Trapesium Banyak Pias dan 
 Modul 5: Metode Euler dan Heun.
 Sesuaikan akhiran directory file dengan metode yang digunakan.
-plt.savefig(r'C:\Kelompok 10\Images\**NamaMetode**.png')
+plt.savefig('C:\Kelompok 10\Images\**NamaMetode**.png')
 Kemudian save file codemetnum11.py.
 Buka file setup.exe.
 Lalu ikuti perintah yang terdapat pada program.
